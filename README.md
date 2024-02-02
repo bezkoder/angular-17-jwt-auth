@@ -32,22 +32,22 @@ For more detail, please visit the tutorial:
 
 ## With Spring Boot back-end
 
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-16-spring-boot-jwt-auth/)
+> [Angular 17 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
 
 ## With Node.js Express back-end
 
-> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-16-jwt-auth/)
+> [Angular 17 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-17-jwt-auth/)
 
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`.
 
 ## More practice
-> [Angular 16 CRUD example with Rest API](https://www.bezkoder.com/angular-16-crud-example/)
+> [Angular 17 CRUD example with Rest API](https://www.bezkoder.com/angular-17-crud-example/)
 
-> [Angular 16 Pagination example](https://www.bezkoder.com/angular-16-pagination-ngx/)
+> [Angular 17 Pagination example](https://www.bezkoder.com/angular-17-pagination-ngx/)
 
-> [Angular 16 File upload example with Progress bar](https://www.bezkoder.com/angular-16-file-upload/)
+> [Angular 17 File upload example with Progress bar](https://www.bezkoder.com/angular-17-file-upload/)
 
-> [Angular 16 Form Validation example](https://www.bezkoder.com/angular-16-form-validation/)
+> [Angular 17 Form Validation example](https://www.bezkoder.com/angular-17-form-validation/)
 
 Fullstack with Node:
 > [Angular 16 + Node Express + MySQL example](https://www.bezkoder.com/angular-16-node-js-express-mysql/)
@@ -79,11 +79,11 @@ Fullstack with Django:
 > [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)
 
 Serverless with Firebase:
-> [Angular 16 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-16-firebase-crud/)
+> [Angular 17 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-17-firebase-crud/)
 
-> [Angular 16 Firestore CRUD example](https://www.bezkoder.com/angular-16-firestore-crud/)
+> [Angular 17 Firestore CRUD example](https://www.bezkoder.com/angular-17-firestore-crud/)
 
-> [Angular 16 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-16-firebase-storage/)
+> [Angular 17 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-17-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
 > [How to integrate Angular with Node Restful Services](https://www.bezkoder.com/integrate-angular-12-node-js/)
